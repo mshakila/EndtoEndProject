@@ -16,4 +16,9 @@ Commit the changes
 git commit -m "my first commit"   
 ```  
 
+Get changes from github repo
+```
+git pull
+'''
+
 
