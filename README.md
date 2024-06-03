@@ -21,4 +21,19 @@ Get changes from github repo
 git pull
 '''
 
+# in windows run and observe folder 'DiamondPricePredition' being created
+```
+pip install -r requirements.txt
+python setup.py install
+```
+
+# OR
+# include below code in requirements.txt and run it
+#      -e .    
+```
+pip install -r requirements.txt
+```
+
+
+
 
